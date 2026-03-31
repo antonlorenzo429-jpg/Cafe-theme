@@ -240,9 +240,9 @@
     "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
 },
   "background": {
-    "url": "https://raw.githubusercontent.com/antonlorenzo429-jpg/Cafe-theme/refs/heads/main/hq720.jpg",
-    "blur": 0.5,
-    "alpha": 0.25,
+    "url": "https://files.catbox.moe/mcmiqh.jpg",
+    "blur": 0,
+    "alpha": 1,
     "size": "cover",
     "position": "center"
   },
