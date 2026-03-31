@@ -243,8 +243,6 @@
     "url": "https://files.catbox.moe/mcmiqh.jpg",
     "blur": 0,
     "alpha": 1,
-    "size": "cover",
-    "position": "center"
   },
   "plus": {
     "version": 0,
